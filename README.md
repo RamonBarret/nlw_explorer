@@ -13,7 +13,3 @@ Projeto construído no evento Next Level Week da Rocketseat.
 - HTML
 - CSS
 - Git e Github
-
-## 📲 Contato
-
-Email: ramon_barreto_medrado@hotmail.com
